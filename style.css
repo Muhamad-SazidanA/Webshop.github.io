@@ -1,0 +1,237 @@
+* {
+    margin: 0;
+}
+
+.logo {
+    font-style: italic;
+}
+
+nav {
+    display: flex;
+    background-color: black;
+    border-radius: 0 0 20px 20px;
+    margin: 0 48px;
+    padding: 20px 24px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    color: #fff;
+}
+
+.Nav-List ul {
+    display: flex;
+}
+
+.Nav-List ul li {
+    margin-left: 16px;
+}
+
+.sec1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.artic-sec11 {
+    padding-left: 50px;
+}
+
+.artic-sec11 h1 {
+    margin-bottom: 32px;
+    font-size: 48px;
+}
+
+.artic-sec11 button {
+    border-radius: 20px;
+    padding: 10px 45px;
+}
+
+.artic-sec11 button a {
+    color: #000;
+}
+
+.artic-sec11 img {
+    width: 300px;
+    display: flex;
+    border-radius: 50% 50% 0 0;
+    margin-top: 35px;
+}
+
+.artic-sec12 img {
+    width: 400px;
+    border-radius: 100px 0;
+    margin-top: 60px;
+    margin-right: 50px;
+}
+
+.sec2 {
+    background-color: #000;
+    color: #fff;
+    padding: 50px 0;
+}
+
+.artic-sec21 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.artic-sec22 {
+    display: flex;
+    align-items: center;
+}
+
+.artic-sec22 img {
+    width: 100px;
+    padding-right: 15px;
+}
+
+.gambar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec3 {
+    background-color: #fff;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+.artic-sec31 h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.artic-sec33 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    justify-content: space-evenly;
+    background-color: #000;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+
+.artic-sec34 img {
+    width: 200px;
+    border-radius: 10px 10px 0 0;
+}
+
+.artic-sec35 p {
+    padding: 5px;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.artic-sec32 {
+    display: flex;
+    justify-content: center;
+}
+
+.sec4 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0000002d;
+}
+
+.sec4 img {
+    width: 400px;
+}
+
+.artic-sec41 {
+    text-align: justify;
+    padding: 50px 90px;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.artic-sec41 h2,p {
+    margin-bottom: 24px
+}
+
+.artic-sec41 button {
+    border-radius: 20px;
+    padding: 10px 45px;
+    margin-top: 20px;
+}
+
+.artic-sec41 button p {
+    color: #000;
+}
+
+footer {
+    background-color: #000;
+    color:#fff;
+}
+
+.Cont-Footer {
+    display: flex;
+    padding: 48px 64px 0 64px;
+    justify-content: space-between;
+}
+
+.NQA h2, p{
+    text-align: justify;
+}
+
+.NQA h2 {
+    padding-bottom: 20px;
+}
+
+.NQA p {
+    margin-right: 120px;
+}
+
+.Data{
+    display: flex;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.Data a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.Data ul {
+    list-style-type: none;
+}
+
+.Data h3 {
+    padding-bottom: 20px;
+    padding-right: 90px;
+    margin-left: 40px;
+}
+
+.Help {
+    margin-right: 20px;
+}
+
+.Logo-Social a i {
+    color: #fff;
+    padding-top: 15px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+
+.Copyright {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+
